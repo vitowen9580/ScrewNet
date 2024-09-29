@@ -53,9 +53,9 @@ You can download the pre-trained noise generation module and anomaly detection n
 ## Training
 If you want to re-train the anomaly detection network, you can use the following commands:
 ```bib
-python main.py --training true --gpu_id 0 --Noise_Type Gaussian --Screw_Type Z_M6x20-200 --epochs 80 --lr 0.05
-python main.py --training true --gpu_id 0 --Noise_Type Gaussian --Screw_Type Z_M6x34.2-1000_F2000 --epochs 80 --lr 0.05
-python main.py --training true --gpu_id 0 --Noise_Type Gaussian --Screw_Type Z_M8x32.4 --epochs 80 --lr 0.05
+python main.py --training true --gpu_id 0 --Noise_Type CycleGAN --Screw_Type Z_M6x20-200 --epochs 80 --lr 0.05
+python main.py --training true --gpu_id 0 --Noise_Type CycleGAN --Screw_Type Z_M6x34.2-1000_F2000 --epochs 80 --lr 0.05
+python main.py --training true --gpu_id 0 --Noise_Type CycleGAN --Screw_Type Z_M8x32.4 --epochs 80 --lr 0.05
 ````
 
 ## Testing
