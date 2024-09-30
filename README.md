@@ -6,7 +6,7 @@
 ```bash
 pip install --upgrade -r requirements.txt
 ````
-## 2. Architecture
+## Architecture
 ```bib
 ├── README.md
 ├── checkpoints/
