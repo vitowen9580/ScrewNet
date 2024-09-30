@@ -65,3 +65,5 @@ python main.py --training false --gpu_id 0  --Noise_Type CycleGAN --Screw_Type Z
 python main.py --training false --gpu_id 0  --Noise_Type CycleGAN --Screw_Type Z_M6x34.2-1000_F2000 --test_folder testA
 python main.py --training false --gpu_id 0  --Noise_Type CycleGAN --Screw_Type Z_M8x32.4 --test_folder testA 
 ````
+## Acknowledgments
+Our project is developed based on the CycleGAN architecture. We extend our sincere thanks to the creators of CycleGAN(https://github.com/jzsherlock4869/cyclegan-pytorch) for their excellent work. Additionally, we would like to express our gratitude to the anonymous reviewers for their insightful feedback, which has been instrumental in improving this work.
