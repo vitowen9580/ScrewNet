@@ -46,7 +46,7 @@ You can download the screw datasets used in the paper from the following links. 
 
 ## Pre-train models
 You can download the pre-trained noise generation module and anomaly detection networks from Google Drive. Make sure to place the pre-trained models in the correct directories:
-  * Pre-trained Noise Generation Module:[https://drive.google.com/file/d/1G5d12SFKlz5-G3xiibXZrABajjHU6rT4/view?usp=sharing](https://drive.google.com/file/d/1YsHSFclkMg0ArDihn0kWwkHvchOyuEbP/view?usp=sharing)
+  * Pre-trained Noise Generation Module:[[https://drive.google.com/file/d/1G5d12SFKlz5-G3xiibXZrABajjHU6rT4/view?usp=sharing](https://drive.google.com/file/d/1YsHSFclkMg0ArDihn0kWwkHvchOyuEbP/view?usp=sharing)](https://drive.google.com/file/d/1Q5F8EnKYVrxwU8bxZhLurbcsnrKuReXl/view?usp=sharing)
  * Pre-trained Anomaly Detection Networks:https://drive.google.com/file/d/1z7O5oMgW7e6EjptKVJEHjJrQruMraLY-/view?usp=sharing
 
 
