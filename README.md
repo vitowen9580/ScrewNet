@@ -1,4 +1,4 @@
-# ScrewNet:Promoting Accurate Image Reconstruction via Synthetic Noise for Unsupervised Screw Anomaly Detection and Location (TIM 2025) <h1>
+# Promoting Accurate Image Reconstruction via Synthetic Noise for Unsupervised Screw Anomaly Detection and Location (TIM 2025) <h1>
 
 ## Enviroment
 * Ubuntu 18.04.6 LTS
@@ -67,3 +67,15 @@ python main.py --training false --gpu_id 0  --Noise_Type CycleGAN --Screw_Type Z
 ````
 ## Acknowledgments
 Our project is developed based on the CycleGAN architecture. We extend our sincere thanks to the creators of CycleGAN(https://github.com/jzsherlock4869/cyclegan-pytorch) for their excellent work. Additionally, we would like to express our gratitude to the anonymous reviewers for their insightful feedback, which has been instrumental in improving this work.
+
+
+## Citation:
+```bib
+@article{chen2025promoting,
+  title={Promoting Accurate Image Reconstruction via Synthetic Noise for Unsupervised Screw Anomaly Detection and Location},
+  author={Chen, Jian Wen and Lin, Wan Ju and Li, Kuan Ming and Mrozek, Dariusz and Hung, Che Lun},
+  journal={IEEE Transactions on Instrumentation and Measurement},
+  year={2025},
+  publisher={IEEE}
+}
+````
