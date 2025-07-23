@@ -1,4 +1,4 @@
-# Promoting Accurate Image Reconstruction via Synthetic Noise for Unsupervised Screw Anomaly Detection and Location (ScrewNet) <h1>
+# ScrewNet:Promoting Accurate Image Reconstruction via Synthetic Noise for Unsupervised Screw Anomaly Detection and Location (TIM 2025) <h1>
 
 ## Enviroment
 * Ubuntu 18.04.6 LTS
